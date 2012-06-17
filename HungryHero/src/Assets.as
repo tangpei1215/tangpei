@@ -6,7 +6,9 @@ package
 	import starling.display.MovieClip;
 	import starling.textures.Texture;
 	import starling.textures.TextureAtlas;
-
+	/**
+	 * @author TangPei
+	 */
 	public class Assets
 	{
 		[Embed(source="../media/graphics/bgWelcome.jpg")]
